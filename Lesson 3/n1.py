@@ -1,0 +1,2 @@
+a = "Helo ? good ??//?? qwe Ing! How are you? ???".replace(" ","\n")
+print(a)
